@@ -8,7 +8,7 @@
 
 ## Project Title
 
-**Hello World Sample**
+**Hello World**
 
 ## Who am I?
 
