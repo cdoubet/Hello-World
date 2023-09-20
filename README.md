@@ -12,13 +12,9 @@
 
 ## Who am I?
 
-```
-{
-  "firstName": "Charlie",
-  "lastName": "Doubet",
-  "age": 20
-}
-```
+- Charlie Doubet
+- 20 Years Old
+- Junior at The University of Iowa
 
 ## What are my favorite hobbies? 
 
@@ -28,4 +24,4 @@
    
 ## LinkedIn
 
-[LinkedIn](https://www.linkedin.com/in/charlie-doubet/)
+[Charlie Doubets LinkedIn](https://www.linkedin.com/in/charlie-doubet/)
